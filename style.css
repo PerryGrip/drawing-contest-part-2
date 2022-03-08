@@ -1,0 +1,22 @@
+body{
+    background-color:powderblue;
+}
+#time{
+font-size: larger;
+float:right;
+margin-right:20px ;
+}
+#score{
+    font-size: larger;
+   margin-left: 20px;
+}
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+    animation-name: example;
+    animation-duration: 4s;
+    margin-top: 50px;
+    animation-iteration-count: infinite;
+    margin-top: 100px;
+    background-color: white;
+}
